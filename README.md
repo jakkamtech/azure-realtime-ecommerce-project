@@ -1,6 +1,6 @@
 # 📦 Real-Time E-Commerce Order Intelligence and Sales Monitoring (Azure-Based)
 
-> **Live Analytics Project** using Azure Event Hub, Databricks (PySpark), Azure Blob Storage, and Power BI – built entirely using U.S.-based simulated e-commerce data.
+> **Analytics Project** using Azure Event Hub, Databricks (PySpark), Azure Blob Storage, and Power BI – built entirely using U.S.-based simulated e-commerce data.
 
 ---
 
