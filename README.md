@@ -37,10 +37,6 @@ This real-time data engineering project simulates and processes live e-commerce 
 
 ---
 
-## 🎥 Project Walkthrough Video
-
-I’ve created a detailed YouTube video explaining the project and walking through the entire execution step-by-step.  
-[![Watch the video](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&logoColor=white)](https://youtu.be/H9cK7ELbjLg?si=r0okbdiiWJCO5R8v)
 
 
 ## 🧪 Project Structure
